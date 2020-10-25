@@ -1,1 +1,2 @@
-# pascal-triangle
+# Pascal_Triangle
+Simplest & Shortest way
